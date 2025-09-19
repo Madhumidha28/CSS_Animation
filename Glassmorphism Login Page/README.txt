@@ -7,5 +7,3 @@ The project demonstrates **CSS animation and glassmorphism effect**.
 -  Glassmorphism login box (transparent frosted glass look)  
 -  Animated hot air balloons floating in the background  
 -  Clean login form with username & password fields  
--  Responsive design  
--  Pure **HTML + CSS (no external frameworks)**  
